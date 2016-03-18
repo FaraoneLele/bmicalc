@@ -1,0 +1,239 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-18 13:40+0200\n"
+"PO-Revision-Date: 2016-03-18 13:40+0100\n"
+"Last-Translator: Emanuele Antonio Faraone <emanueleant03@gmail.com>\n"
+"Language-Team: Italian <LL@li.org>\n"
+"Language: Italian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../app/BmiView.qml:5 ../app/Main.qml:58
+msgid "BMI Calculator"
+msgstr "Calcolatore BMI"
+
+#: ../app/BmiView.qml:10 ../app/BodyFatUsNavyView.qml:13 ../app/Main.qml:77
+msgid "Information"
+msgstr "Informazioni"
+
+#: ../app/BmiView.qml:37
+msgid "Age"
+msgstr "Età"
+
+#: ../app/BmiView.qml:55 ../app/BodyFatUsNavyView.qml:82
+msgid "Male"
+msgstr "Maschio"
+
+#: ../app/BmiView.qml:56 ../app/BodyFatUsNavyView.qml:83
+msgid "Female"
+msgstr "Femmina"
+
+#: ../app/BmiView.qml:64 ../app/BodyFatUsNavyView.qml:38
+msgid "Height"
+msgstr "Altezza"
+
+#: ../app/BmiView.qml:82 ../app/BodyFatUsNavyView.qml:56
+msgid "KG/CM"
+msgstr "KG/CM"
+
+#: ../app/BmiView.qml:83 ../app/BodyFatUsNavyView.qml:57
+msgid "IN/LB"
+msgstr "IN/LB"
+
+#: ../app/BmiView.qml:90 ../app/BodyFatUsNavyView.qml:64
+msgid "Weight"
+msgstr "Peso"
+
+#: ../app/BmiView.qml:106 ../app/BodyFatUsNavyView.qml:234
+msgid "Calculate"
+msgstr "Calcola"
+
+#: ../app/BodyFatUsNavyView.qml:7
+msgid "Body Fat Calculator"
+msgstr "Calcolatore di Peso Corporeo"
+
+#: ../app/BodyFatUsNavyView.qml:90
+msgid "Waist"
+msgstr "Vita"
+
+#: ../app/BodyFatUsNavyView.qml:127
+msgid ""
+"Take the waist measurement\n"
+"at its narrowest point"
+msgstr "Prendere la misura della vita \n"
+"Al suo punto più stretto"
+
+#: ../app/BodyFatUsNavyView.qml:128
+msgid ""
+"Take the waist measurement\n"
+"at the navel"
+msgstr "Prendere la misura della vita \uomini "
+"L'ombelico"
+
+#: ../app/BodyFatUsNavyView.qml:140
+msgid "Hip"
+msgstr "Anca"
+
+#: ../app/BodyFatUsNavyView.qml:177
+msgid ""
+"Take the hip measurement\n"
+"at its widest point"
+msgstr "Prendere la misura dell'anca \n"
+"Al suo punto più largo"
+
+#: ../app/BodyFatUsNavyView.qml:188
+msgid "Neck"
+msgstr "Collo"
+
+#: ../app/BodyFatUsNavyView.qml:225
+msgid ""
+"Take the neck measurement\n"
+"at its narrowest point.\n"
+"and with the tape sloping slightly\n"
+"downward to the front."
+msgstr ""
+"Prendi la misura del collo \ n"
+"Nel punto più stretto. \ N"
+"E con il nastro leggermente inclinato \ n"
+"Verso il basso verso la parte anteriore."
+
+#: ../app/BodyFatUsNavyView.qml:273
+msgid "Essential Fat"
+msgstr "Grassi Essenziali"
+
+#: ../app/BodyFatUsNavyView.qml:273
+msgid "Athletic"
+msgstr "Atletico"
+
+#: ../app/BodyFatUsNavyView.qml:274
+msgid "Fit"
+msgstr "in Forma"
+
+#: ../app/BodyFatUsNavyView.qml:274
+msgid "Acceptable"
+msgstr "Accettabile"
+
+#: ../app/BodyFatUsNavyView.qml:274 ../app/RulerBMI.qml:277
+msgid "Obese"
+msgstr "Obeso"
+
+#: ../app/BodyFatUsNavyView.qml:327 ../app/Main.qml:66
+msgid "Body Fat %"
+msgstr "Grasso Corporeo %"
+
+#: ../app/BodyFatUsNavyView.qml:361
+msgid "Fat Mass"
+msgstr "Massa di grasso"
+
+#: ../app/BodyFatUsNavyView.qml:387
+msgid "Lean Mass"
+msgstr "Massa magra"
+
+#: ../app/InformationView.qml:26
+msgid ""
+"<h3>body mass index (BMI)</h3>\n"
+"                             The body mass index (BMI), is a value derived "
+"from the mass (weight) and height of an individual.\n"
+"                             The BMI is an attempt to quantify the amount of "
+"tissue mass (muscle, fat, and bone) in an individual,\n"
+"                             and then categorize that person as "
+"underweight,\n"
+"                             normal weight, overweight, or obese based on "
+"that value.\n"
+"                             <h4>BMI in Children (aged 2 to 20)</h4>\n"
+"                             BMI is used differently for children. It is "
+"calculated in the same way as for adults,\n"
+"                             but then compared to typical values for other "
+"children of the same age.\n"
+"                             Instead of comparison against fixed thresholds "
+"for underweight and overweight,\n"
+"                             the BMI is compared against the percentile for "
+"children of the same gender and age.\n"
+"                             <br><a href='https://en.wikipedia.org/wiki/"
+"Body_mass_index'>(See: Wikipedia)</a>"
+msgstr ""
+
+#: ../app/InformationView.qml:37
+msgid ""
+"<h3>Body Fat %</h3>\n"
+"                             This Body Fat Calculator uses the U.S. Navy "
+"fitness formula to get an estimated measuring of body fat percent.\n"
+"                             All you need is a tape measure.\n"
+"                             <br><b>NOTICE:</b> This is not represent a "
+"measure of an accurate <b>Body Fat</b>. It is just an estimate.\n"
+"                             <br><a href='https://en.wikipedia.org/wiki/"
+"Body_fat_percentage'>(See also: Wikipedia)</a>"
+msgstr ""
+
+#: ../app/RulerBMI.qml:226
+msgid ""
+"Very severely\n"
+"underweight"
+msgstr ""
+"Molto severamente \n"
+"Sottopeso"
+
+#: ../app/RulerBMI.qml:235
+msgid ""
+"Severely\n"
+"Underweight"
+msgstr ""
+"Gravemente \n"
+"sottopeso"
+
+#: ../app/RulerBMI.qml:244
+msgid "Underweight"
+msgstr "Sottopeso"
+
+#: ../app/RulerBMI.qml:253
+msgid "Normal"
+msgstr "Normale"
+
+#: ../app/RulerBMI.qml:262
+msgid "Overweight"
+msgstr "Sovrappeso"
+
+#: ../app/RulerBMI.qml:271
+msgid ""
+"Obese\n"
+"Class I"
+msgstr ""
+"Obeso\n"
+"Classe I"
+
+#: ../app/RulerBMI.qml:273
+msgid ""
+"Obese\n"
+"Class II"
+msgstr ""
+"Obeso\n"
+"Classe II"
+
+#: ../app/RulerBMI.qml:275
+msgid ""
+"Obese\n"
+"Class III"
+msgstr ""
+"Obeso\n"
+"Classe III
+
+#: /home/avi/qt/ubuntu-touch/build-bmicalc-Ubuntu_SDK_Desktop_Kit-Default/po/bmiCalc.desktop.in.h:1
+msgid "Body Status"
+msgstr "Stato corporeo"
+
+#: /home/avi/qt/ubuntu-touch/build-bmicalc-Ubuntu_SDK_Desktop_Kit-Default/po/bmiCalc.desktop.in.h:2
+msgid ""
+"Body Status is a weight calculators, including BMI Calculator, and Body Fat "
+"percentage."
+msgstr ""
+"Stato corporeo è un calcolatore del peso, tra cui BMI Calculator, e il grasso corporeo"
+"percentuale."
